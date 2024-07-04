@@ -1,2 +1,3 @@
 # Matrix Addition
- This is a C program for Arrays.
+Matrix Addition: Create a program that reads two matrices from the user and performs matrix addition. Display the resulting matrix.
+
